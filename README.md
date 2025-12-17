@@ -71,5 +71,22 @@ screenshot_prototype/
 Dashboard_Grafana_Sistem_Monitoring_Reaktor_Nuklir.json
 docker-compose.yml
 mqtt_publisher.py
-SMRN_PIDC_README.md
+README.md
 ```
+---
+## Screenshot
+
+### Kondisi Safe
+![kondisi safe](https://github.com/DzakirT/Sistem_Monitoring_Reaktor_Nuklir/blob/main/screenshot_prototype/KondisiDanger.jpeg?raw=true)
+
+### Kondisi Warning
+![kondisi warning](https://github.com/DzakirT/Sistem_Monitoring_Reaktor_Nuklir/blob/main/screenshot_prototype/KondisiWarning.jpeg?raw=true)
+
+### Kondisi Maintenance
+![kondisi maintenance](https://github.com/DzakirT/Sistem_Monitoring_Reaktor_Nuklir/blob/main/screenshot_prototype/KondisiMaintenance.jpeg?raw=true)
+
+### Kondisi Danger
+![kondisi danger](https://github.com/DzakirT/Sistem_Monitoring_Reaktor_Nuklir/blob/main/screenshot_prototype/KondisiDanger.jpeg?raw=true)
+
+### Output Terminal
+![output terminal](https://github.com/DzakirT/Sistem_Monitoring_Reaktor_Nuklir/blob/main/screenshot_prototype/OutputTerminal.jpeg?raw=true)
