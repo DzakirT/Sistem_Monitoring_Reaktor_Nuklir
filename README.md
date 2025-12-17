@@ -77,7 +77,7 @@ README.md
 ## Screenshot
 
 ### Kondisi Safe
-![kondisi safe](https://github.com/DzakirT/Sistem_Monitoring_Reaktor_Nuklir/blob/main/screenshot_prototype/KondisiDanger.jpeg?raw=true)
+![kondisi safe](https://github.com/DzakirT/Sistem_Monitoring_Reaktor_Nuklir/blob/main/screenshot_prototype/KondisiSafe.jpeg?raw=true)
 
 ### Kondisi Warning
 ![kondisi warning](https://github.com/DzakirT/Sistem_Monitoring_Reaktor_Nuklir/blob/main/screenshot_prototype/KondisiWarning.jpeg?raw=true)
