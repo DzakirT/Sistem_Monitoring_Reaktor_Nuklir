@@ -1,4 +1,4 @@
-# Prototype Sistem Monitoring Reaktor Nuklir dengan Streaming, Kafka, MQTT, InfluxDB dan Grafana
+# Prototype Sistem Monitoring Ruangan Reaktor Nuklir dengan Streaming, Kafka, MQTT, InfluxDB dan Grafana
 ## Proyek Akhir Pemrosesan Infrastruktur Data Kelas C
 
 ### Dosen
